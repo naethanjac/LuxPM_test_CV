@@ -1,1 +1,6 @@
-# LuxPM_test_CV
+Requirements
+
+cv2
+numpy
+matplotlib
+scipy
